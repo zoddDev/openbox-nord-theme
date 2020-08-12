@@ -92,8 +92,8 @@ window.inactive.button.unpressed.bg.color: #282e3a
 window.inactive.button.unpressed.image.color: #989da6
 
 window.inactive.button.pressed.bg: flat solid
-window.inactive.button.pressed.bg.color: #D8DEE9
-window.inactive.button.pressed.image.color: #fbf1c7
+window.inactive.button.pressed.bg.color: #282e3a
+window.inactive.button.pressed.image.color: #434C5E
 
 window.inactive.button.disabled.bg: flat solid
 window.inactive.button.disabled.bg.color: #989da6
