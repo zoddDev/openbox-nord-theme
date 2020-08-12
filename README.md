@@ -1,8 +1,10 @@
 # openbox-nord-theme
 
-# Preview
+# Previews
 
 ![alt text](preview.png)
+
+![alt text](preview2.png)
 
 # Theme made with oomox
 
