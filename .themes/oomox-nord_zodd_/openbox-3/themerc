@@ -7,11 +7,11 @@
 
 # Menu
 menu.border.color: #e5e9f0
-menu.border.width: 1
+menu.border.width: 0
 
-menu.title.bg: Solid Flat
-menu.title.bg.color: #282e3a
-menu.title.bg.shadow: 0
+menu.title.bg: flat
+menu.title.bg.color: #3B4252
+menu.title.bg.shadow: 10
 menu.title.text.color: #e5e9f0
 menu.title.text.justify: Center
 
